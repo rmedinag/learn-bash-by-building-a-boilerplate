@@ -75,3 +75,4 @@ cd ..
 pwd
 cd /workspace/project/
 ls --color=auto -l
+clear
