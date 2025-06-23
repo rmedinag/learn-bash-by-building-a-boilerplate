@@ -72,3 +72,5 @@ more index.js
 cd ..
 cd ,,
 cd ..
+pwd
+cd /workspace/project/
