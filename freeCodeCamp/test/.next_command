@@ -66,3 +66,4 @@ ls --color=auto -l
 cd src/
 __vsc_prompt_cmd_original
 pwd
+ls --color=auto /
